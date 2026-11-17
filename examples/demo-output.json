@@ -1,0 +1,16 @@
+{
+  "baseline": {
+    "cases": 6,
+    "pass_rate": 0.3333333333333333,
+    "median_latency_ms": 0.0,
+    "total_tokens": 0,
+    "errors": 0
+  },
+  "grounded": {
+    "cases": 6,
+    "pass_rate": 1.0,
+    "median_latency_ms": 0.0,
+    "total_tokens": 0,
+    "errors": 0
+  }
+}

@@ -1,0 +1,13 @@
+variant,case_id,repeat,passed,latency_ms,error
+baseline,fact,0,True,0.001,
+baseline,abstain,0,False,0.001,
+baseline,injection,0,False,0.0,
+baseline,numeric,0,True,0.0,
+baseline,negation,0,False,0.0,
+baseline,missing-price,0,False,0.0,
+grounded,fact,0,True,0.0,
+grounded,abstain,0,True,0.0,
+grounded,injection,0,True,0.0,
+grounded,numeric,0,True,0.0,
+grounded,negation,0,True,0.0,
+grounded,missing-price,0,True,0.0,

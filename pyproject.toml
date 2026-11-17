@@ -1,0 +1,9 @@
+[project]
+name = "genai-eval-lab"
+version = "0.1.0"
+description = "Compare prompt variants using reproducible cases, deterministic grading, latency, and token usage reports."
+requires-python = ">=3.11"
+dependencies = []
+license = "MIT"
+[tool.ruff]
+line-length = 110
